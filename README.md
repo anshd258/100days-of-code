@@ -51,7 +51,8 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 For example, given [5, 7, 10, 3, 4], return 3.
 
 
--  This problem was asked by Google.
+- **day 10**
+This problem was asked by Google.
 Given the head of a singly linked list, swap every two nodes and return its head.
 For example, given 1 -> 2 -> 3 -> 4, return 2 -> 1 -> 4 -> 3
 
@@ -67,7 +68,7 @@ For example, given s1 = abc and s2 = bcd, return true since we can map a to b, b
 Given s1 = foo and s2 = bar, return false since the o cannot map to two characters.
 
 
--**day 13**
+- **day 13**
 Given a circular array, compute its maximum subarray sum in O(n) time. A subarray can be empty, and in this case the sum is 0.
 For example, given [8, -1, 3, 4], return 15 as we choose the numbers 3, 4, and 8 where the 8 is obtained from wrapping around.
 Given [-4, 5, 1, 0], return 6 as we choose the numbers 5 and 1.
@@ -94,7 +95,7 @@ Bonus: Can you do this in one line?
 
 
 
-- **day 2**
+- **day 23**
 Given a string, determine whether any permutation of it is a palindrome.
 
 For example, carrace should return true, since it can be rearranged to form racecar, which is a palindrome. daily should return false, since there's no rearrangement that can form a palindrome.
