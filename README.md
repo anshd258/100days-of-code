@@ -122,6 +122,12 @@ For example, given the binary number 1111 0000 1111 0000 1111 0000 1111 0000, re
 Given a real number n, find the square root of n. For example, given n = 9, return 3.
 
 
+- [**day 29**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day29.cpp)
+Gray code is a binary code where each successive value differs in only one bit, as well as when wrapping around. Gray code is common in hardware so that we don't see temporary spurious values during transitions.
+
+Given a number of bits n, generate a possible gray code for it.
+
+For example, for n = 2, one gray code would be [00, 01, 11, 10].
 
 ### Support or Contact
 
