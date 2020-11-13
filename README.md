@@ -20,12 +20,12 @@ The Sieve of Eratosthenes is an algorithm used to generate all prime numbers sma
 
 For example, to find all primes less than 100, we would first mark [4, 6, 8, ...] (multiples of two), then [6, 9, 12, ...] (multiples of three), and so on. Once we have done this for all primes less than N, the unmarked numbers that remain will be prime.
 
-- **day ** This problem was asked by Spotify.
+- **day ** 
+This problem was asked by Spotify.
 
 There are N couples sitting in a row of length 2 * N. They are currently ordered randomly, but would like to rearrange themselves so that each couple's partners can sit side by side.
 
 What is the minimum number of swaps necessary for this to happen?
-
 
 - **day 7**
 This problem was asked by Facebook.
