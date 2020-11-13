@@ -118,6 +118,9 @@ Given a 32-bit integer, return the number with its bits reversed.
 
 For example, given the binary number 1111 0000 1111 0000 1111 0000 1111 0000, return 0000 1111 0000 1111 0000 1111 0000 1111.
 
+- [**day28**](https://github.com/anshd258/100days-of-code/blob/test/day%2028.cpp)
+Given a real number n, find the square root of n. For example, given n = 9, return 3.
+
 
 
 ### Support or Contact
