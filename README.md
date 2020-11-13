@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## welcome of 100 codes 
 
-You can use the [editor on GitHub](https://github.com/anshd258/100days-of-code/edit/100-days-main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can check the code out on [editor on GitHub](https://github.com/anshd258/100days-of-code/edit/100-days-main/README.md) to preview the content of the codes and can downlode a zip file fo the codes
 
 ### Markdown
 
@@ -11,7 +9,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# header 1
 ## Header 2
 ### Header 3
 
