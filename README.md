@@ -84,4 +84,4 @@ For example, given the intervals [0, 3], [2, 6], [3, 4], [6, 9], one set of numb
 
 ### Support or Contact
 
-Having trouble with Pages? reach us out at [editor on GitHub](anshd258@gmail.com) and we’ll help you sort it out.
+Having trouble with Pages? reach us out at(anshd258@gmail.com) and we’ll help you sort it out.
