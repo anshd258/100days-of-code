@@ -1,6 +1,6 @@
 ## Welcome of 100 codes 
 
-You can check the code out on [editor on GitHub](https://github.com/anshd258/100days-of-code/edit/100-days-main/README.md) to preview the content of the codes and can downlode a zip file fo the codes
+You can check the code out on [the link](https://github.com/anshd258/100days-of-code/edit/100-days-main/README.md) to preview the content of the codes and can downlode a zip file fo the codes
 
 ### What you will see.
 The data structure and algorithms are the core of computer programing languages will come and go but data structure algoeithms are goinf to be there fro long.
