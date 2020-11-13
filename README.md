@@ -110,9 +110,16 @@ For example, given the intervals [0, 3], [2, 6], [3, 4], [6, 9], one set of numb
 
 
 
-- [**day 25**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day25.cpp)
+- [**day 26**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day26.cpp)
 You are given an array of length n + 1 whose elements belong to the set {1, 2, ..., n}. By the pigeonhole principle, there must be a duplicate. Find it in linear time and space.
 
+- [**day 27**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day27.cpp)
+Given a 32-bit integer, return the number with its bits reversed.
+
+For example, given the binary number 1111 0000 1111 0000 1111 0000 1111 0000, return 0000 1111 0000 1111 0000 1111 0000 1111.
+
+- [**day28**](https://github.com/anshd258/100days-of-code/blob/test/day%2028.cpp)
+Given a real number n, find the square root of n. For example, given n = 9, return 3.
 
 
 
