@@ -1,29 +1,11 @@
-## welcome of 100 codes 
+## Welcome of 100 codes 
 
 You can check the code out on [editor on GitHub](https://github.com/anshd258/100days-of-code/edit/100-days-main/README.md) to preview the content of the codes and can downlode a zip file fo the codes
 
-### Markdown
+### What you will see.
 The data structure and algorithms are the core of computer programing languages will come and go but data structure algoeithms are goinf to be there fro long.
 
-```markdown
-Syntax highlighted code block
 
-# header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### contents
 1. This problem was recently asked by Google.
