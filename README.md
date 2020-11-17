@@ -129,6 +129,11 @@ Given a number of bits n, generate a possible gray code for it.
 
 For example, for n = 2, one gray code would be [00, 01, 11, 10].
 
+- [**day30**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day30.cpp)
+The edit distance between two strings refers to the minimum number of character insertions, deletions, and substitutions required to change one string to the other. For example, the edit distance between “kitten” and “sitting” is three: substitute the “k” for “s”, substitute the “e” for “i”, and append a “g”.
+
+Given two strings, compute the edit distance between them.
+
 ### Support or Contact
 
 Having trouble with Pages? reach us out at(anshd258@gmail.com) and we’ll help you sort it out.
