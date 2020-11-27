@@ -1,6 +1,6 @@
 ## Welcome of 100 codes 
 
-You can preview the content of the codes and can downlode a zip file of the codes in the view button aboe
+You can preview the content of the codes and can downlode a zip file of the codes in the view button above
 
 ### What you will see.
 The data structure and algorithms are the core of computer programing languages will come and go but data structure algoeithms are going to be there for long.
