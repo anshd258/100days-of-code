@@ -1,26 +1,32 @@
 #include<iostream>
 using namespace std;
-int find(int n)
+int64_t find(int64_t n)
 {
     int count=0;
- 
-    for (int r = 19;; r += 9){
-        int sum = 0;
-    
-        for (int x = r; x > 0; x = x / 10)
+ int_fast64_t r =19;
+    for ( ;; r += 9)
+    {
+  
+       int_fast64_t sum = 0;
+       
+        for (int_fast64_t x = r; x > 0; x = x / 10)
             {sum = sum + x % 10;}
-        if (sum == 10)
-            count++;
-        if (count == n)
-            return r;
+
+           if (sum == 10)
+           count++;
+           if (count==n)
+           return r;
     }
 }
 int main()
 {
     cin.tie(0);
+ 
     cout<<"enter the number\n";
-    unsigned int num,res;
+    int num;
     cin>>num;
-     cout<<find(num);
+
+         cout<<find(num);
+
      return 0;
 }
