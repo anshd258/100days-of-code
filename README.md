@@ -1,6 +1,6 @@
 ## Welcome of 100 codes 
 
-You can preview the content of the codes and can downlode a zip file of the codes in the view button above
+You can preview the content of the codes and can downlode a zip file of the codes in the view buton above
 
 ### What you will see.
 The data structure and algorithms are the core of computer programing languages will come and go but data structure algoeithms are going to be there for long.
@@ -122,17 +122,6 @@ For example, given the binary number 1111 0000 1111 0000 1111 0000 1111 0000, re
 Given a real number n, find the square root of n. For example, given n = 9, return 3.
 
 
-- [**day 29**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day29.cpp)
-Gray code is a binary code where each successive value differs in only one bit, as well as when wrapping around. Gray code is common in hardware so that we don't see temporary spurious values during transitions.
-
-Given a number of bits n, generate a possible gray code for it.
-
-For example, for n = 2, one gray code would be [00, 01, 11, 10].
-
-- [**day30**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day30.cpp)
-The edit distance between two strings refers to the minimum number of character insertions, deletions, and substitutions required to change one string to the other. For example, the edit distance between “kitten” and “sitting” is three: substitute the “k” for “s”, substitute the “e” for “i”, and append a “g”.
-
-Given two strings, compute the edit distance between them.
 
 ### Support or Contact
 
