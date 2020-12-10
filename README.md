@@ -121,6 +121,85 @@ For example, given the binary number 1111 0000 1111 0000 1111 0000 1111 0000, re
 - [**day28**](https://github.com/anshd258/100days-of-code/blob/test/day%2028.cpp)
 Given a real number n, find the square root of n. For example, given n = 9, return 3.
 
+- [**day29**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day29.cpp)
+Gray code is a binary code where each successive value differs in only one bit, as well as when wrapping around. Gray code is common in hardware so that we don't see temporary spurious values during transitions.
+
+Given a number of bits n, generate a possible gray code for it.
+
+- [**day30**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day30.cpp)
+
+The edit distance between two strings refers to the minimum number of character insertions, deletions, and substitutions required to change one string to the other. For example, the edit distance between “kitten” and “sitting” is three: substitute the “k” for “s”, substitute the “e” for “i”, and append a “g”.
+
+Given two strings, compute the edit distance between them.
+
+- [**38**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day38.cpp)
+Given a number in the form of a list of digits, return all possible permutations.
+
+- [**day40**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day42.cpp)
+This problem was asked by Facebook.
+
+Given an array of integers in which two elements appear exactly once and all other elements appear exactly twice, find the two elements that appear only once.
+
+- [**day42**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day42.cpp)
+You are given an array of nonnegative integers. Let's say you start at the beginning of the array and are trying to advance to the end. You can advance at most, the number of steps that you're currently on. Determine whether you can get to the end of the array.
+
+For example, given the array [1, 3, 1, 2, 0, 1], we can go from indices 0 -> 1 -> 3 -> 5, so return true.
+
+Given the array [1, 2, 1, 0, 0], we can't reach the end, so return false.
+
+- [**day43**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day43.cpp)
+You have n fair coins and you flip them all at the same time. Any that come up tails you set aside. The ones that come up heads you flip again. How many rounds do you expect to play before only one coin remains?
+
+Write a function that, given n, returns the number of rounds you'd expect to play until one coin remains.
+
+- [**day51**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day51.cpp)
+Given a function f, and N return a debounced f of N milliseconds.
+
+That is, as long as the debounced f continues to be invoked, f itself will not be called for N milliseconds.
+
+- [**day52**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day52.cpp)
+This problem was asked by Microsoft.
+
+A number is considered perfect if its digits sum up to exactly 10.
+
+Given a positive integer n, return the n-th perfect number.
+
+For example, given 1, you should return 19. Given 2, you should return 28.
+
+- [**day53**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day53.cpp)
+This problem was asked by Amazon.
+
+Given a N by M matrix of numbers, print out the matrix in a clockwise spiral.
+
+For example, given the following matrix:
+
+[[1,  2,  3,  4,  5],
+ [6,  7,  8,  9,  10],
+ [11, 12, 13, 14, 15],
+ [16, 17, 18, 19, 20]]
+
+You should print out the following:
+
+1
+2
+3
+4
+5
+10
+15
+20
+19
+18
+17
+16
+11
+6
+7
+8
+9
+14
+13
+12
 
 
 ### Support or Contact
