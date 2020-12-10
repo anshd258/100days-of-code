@@ -1,5 +1,6 @@
-
-
+/*the method prints spiral of an 2d matrix with 4 loops 
+we use the  last row adn last colum ad the key to print the opposit sides of the matrix
+*/
 #include<iostream>
 using namespace std;
 int main()

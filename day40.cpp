@@ -14,7 +14,7 @@ void print(i *p,i s)
 }
 void permu(i *a,i l, i r)
 {
-    if(l==r-1)
+    if(l==r)
     {
         print(a,r);
         cout<<endl;
