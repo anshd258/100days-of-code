@@ -201,7 +201,7 @@ You should print out the following:
 13
 12
 
-- [**day54**]()
+- [**day54**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day54.cpp)
 This problem was asked by LinkedIn.
 
 Given a linked list of numbers and a pivot k, partition the linked list so that all nodes less than k come before nodes greater than or equal to k.
