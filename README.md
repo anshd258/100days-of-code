@@ -208,6 +208,14 @@ Given a linked list of numbers and a pivot k, partition the linked list so that 
 
 For example, given the linked list 5 -> 1 -> 8 -> 0 -> 3 and k = 3, the solution could be 1 -> 0 -> 5 -> 8 -> 3.
 
+- [**day55**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day55.cpp)
+
+This problem was asked by Google.
+
+Given a sorted list of integers, square the elements and give the output in sorted order.
+
+For example, given [-9, -2, 0, 2, 3], return [0, 4, 4, 9, 81].
+
 ### Support or Contact
 
 Having trouble with Pages? reach us out at(anshd258@gmail.com) and we’ll help you sort it out.
