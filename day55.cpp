@@ -16,7 +16,6 @@ int main()
     {
         cin>>i;
     }
-
     var=var.apply([](float x){return x=pow(x,2);});
         sort(begin(var),end(var));
      for (auto &x: var)cout << x << " "; 
