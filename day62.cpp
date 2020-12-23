@@ -17,6 +17,7 @@ int main()
         }
         else if (inp[i]!=inp[i+1])
         {
+            
             cout<<count<<inp[i];
             count=1;
         }
