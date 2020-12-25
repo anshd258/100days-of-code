@@ -216,6 +216,75 @@ Given a sorted list of integers, square the elements and give the output in sort
 
 For example, given [-9, -2, 0, 2, 3], return [0, 4, 4, 9, 81].
 
+- [**day56**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day56.cpp)
+
+Given a list of possibly overlapping intervals, return a new list of intervals where all overlapping intervals have been merged.
+
+The input list is not necessarily ordered in any way.
+
+For example, given [(1, 3), (5, 8), (4, 10), (20, 25)], you should return [(1, 3), (4, 10), (20, 25)].
+
+
+- [**day57**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day57.cpp)
+
+Given a array of numbers representing the stock prices of a company in chronological order, write a function that calculates the maximum profit you could have made from buying and selling that stock once. You must buy before you can sell it.
+
+For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could buy the stock at 5 dollars and sell it at 10 dollars.
+
+
+- [**day58**]()
+
+This problem was asked by Google.
+
+Given k sorted singly linked lists, write a function to merge all the lists into one sorted singly linked list.
+
+
+
+- [**day59**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day59.cpp)
+
+iven a string of digits, generate all possible valid IP address combinations.
+
+IP addresses must follow the format A.B.C.D, where A, B, C, and D are numbers between 0 and 255. Zero-prefixed numbers, such as 01 and 065, are not allowed, except for 0 itself.
+
+For example, given "2542540123", you should return ['254.25.40.123', '254.254.0.123'].
+
+
+- [**day60**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day60.cpp)
+
+Given a string of round, curly, and square open and closing brackets, return whether the brackets are balanced (well-formed).
+
+For example, given the string "([])[]({})", you should return true.
+
+Given the string "([)]" or "((()", you should return false.
+
+
+- [**day61**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day61.cpp)
+
+Given an array of numbers, find the length of the longest increasing subsequence in the array. The subsequence does not necessarily have to be contiguous.
+
+For example, given the array [0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15], the longest increasing subsequence has length 6: it is 0, 2, 6, 9, 11, 15.
+
+
+- [**day62**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day62.cpp)
+
+Run-length encoding is a fast and simple method of encoding strings. The basic idea is to represent repeated successive characters as a single count and character. For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A".
+
+Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid
+
+- [**day63**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day63.cpp)
+
+Given three 32-bit integers x, y, and b, return x if b is 1 and y if b is 0, using only mathematical or bit operations. You can assume b can only be 1 or 0.
+
+- [**day64**](https://github.com/anshd258/100days-of-code/blob/100-days-main/day64.cpp)
+
+Given two singly linked lists that intersect at some point, find the intersecting node. The lists are non-cyclical.
+
+For example, given A = 3 -> 7 -> 8 -> 10 and B = 99 -> 1 -> 8 -> 10, return the node with value 8.
+
+In this example, assume nodes with the same value are the exact same node objects.
+
+Do this in O(M + N) time (where M and N are the lengths of the lists) and constant space.
+
 ### Support or Contact
 
 Having trouble with Pages? reach us out at(anshd258@gmail.com) and we’ll help you sort it out.
