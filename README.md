@@ -285,6 +285,3 @@ In this example, assume nodes with the same value are the exact same node object
 
 Do this in O(M + N) time (where M and N are the lengths of the lists) and constant space.
 
-### Support or Contact
-
-Having trouble with Pages? reach us out at(anshd258@gmail.com) and we’ll help you sort it out.
